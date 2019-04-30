@@ -1,4 +1,6 @@
 # ROG-M11H-Hackintosh
+macOS version：Mojave 10.14.4
+
 CPU:Intel i9 9900k
 
 主板:ROG MAXIMUS XI Hero Wifi Z390
