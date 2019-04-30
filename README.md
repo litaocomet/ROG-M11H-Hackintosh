@@ -19,7 +19,7 @@ CPU:Intel i9 9900k
 
 独立网卡：Intel i210-T1
 
-无线蓝牙：BCM94360CD
+无线蓝牙：BCM943602cdp
 
 独立声卡：Audioengine D1
 
